@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1522899274 source:c:\users\pedroaleph\downloads\aulas\—ˆ\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arv_bin.h"
+
+1522900316 c:\users\pedroaleph\downloads\aulas\—ˆ\arv_bin.h
+
+1522900483 source:c:\users\pedroaleph\downloads\aulas\—ˆ\arv_bin.c
+	<stdio.h>
+	<stdlib.h>
+	"arv_bin.h"
+	<math.h>
+
+1522900483 source:c:\users\pedroaleph\downloads\aulas\tree_learning\arvore_bin\arv_bin.c
+	<stdio.h>
+	<stdlib.h>
+	"arv_bin.h"
+	<math.h>
+
+1522900316 c:\users\pedroaleph\downloads\aulas\tree_learning\arvore_bin\arv_bin.h
+
